@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Manejo de ficheros</string>
+    <string name="boton1">Ejercicio 1</string>
+    <string name="boton2">Ejercicio 2</string>
+    <string name="boton3">Ejercicio 3</string>
+
+    <string name="add">Añadir</string>
+    <string name="read">Leer</string>
+    <string name="del">Borrar</string>
+    <string name="con_read">El contenido del fichero es:</string>
+    <string name="con_write">El contenido a escribir:</string>
+    <string name="fich_in">Acciones para ficheros internos:</string>
+    <string name="fich_ex">Acciones para ficheros externos:</string>
+    <string name="fich_re">Acciones para recursos:</string>
+</resources>
